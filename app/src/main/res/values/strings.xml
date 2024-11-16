@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One2Push</string>
+
+    <string name="test1">test 1 - DEFAULT</string>
+    <string name="test2">test 2 - DEFAULT</string>
+    <string name="test3">test 3 - DEFAULT</string>
+</resources>

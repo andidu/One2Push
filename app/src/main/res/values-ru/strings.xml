@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One2Push</string>
+
+    <string name="test1">тест 1 - RU</string>
+    <string name="test2">тест 2 - RU</string>
+    <string name="test3">тест 3 - RU</string>
+</resources>
